@@ -1,0 +1,39 @@
+
+.top-page{
+    margin-bottom: 30px;
+  }
+  
+  .card-container {
+    display: flex;
+    height: 250px;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 45%;
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+  }
+  
+  .card-title{
+    height: 160px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    height: 50px;
+    width: fit-content;
+    text-align: center;
+    background-color: #006262;
+    color: white;
+  }
+  
+  .btn:hover {
+    background-color: #005555ac;
+    border: 0.5px solid rgb(241, 241, 241);
+    color: white;
+  }
+  
