@@ -1,5 +1,4 @@
 .profile {
-  text-align: center;
   padding: 20px;
 }
 
@@ -17,4 +16,24 @@
 .profile-bio {
   margin-top: 10px;
   font-size: 18px;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #006262; /* Green color */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: rgb(2, 42, 42);
+}
+
+.anchor {
+  text-decoration: none;
+  color: inherit;
 }

@@ -47,10 +47,10 @@ const Home = () => {
   );
   return (
     <>
-      <nav className="navbar">
+      <nav className="navbar" style={{background: '#006262'}}>
         <div className="logo">
           <h2>
-            <b style={{ color: 'lightblue' }}>MediAi</b>
+            <b style={{ color: 'white' }}>MediAi</b>
           </h2>
         </div>
       </nav>
@@ -158,7 +158,7 @@ const styles = {
     fontSize: '1rem',
     borderRadius: '8px',
     border: 'none',
-    background: '#3498db',
+    background: '#006262',
     color: 'white',
     cursor: 'pointer',
     transition: 'background 0.3s ease',
@@ -195,7 +195,7 @@ const styles = {
     fontSize: '1rem',
     borderRadius: '8px',
     border: 'none',
-    background: '#3498db',
+    background: '#006262',                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
     color: 'white',
     cursor: 'pointer',
     transition: 'background 0.3s ease',
